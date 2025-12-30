@@ -4,7 +4,7 @@
 ### Enterprise-Grade Project & Issue Management for Modern Development Teams
 
 <p align="center">
-  <img src="https://wac-cdn.atlassian.com/dam/jcr:3f0c9a9b-9c92-4e5b-9b8e-6b1c6c1f0bfa/Jira%20Software%20logo.svg" alt="Jira Software Logo" width="300"/>
+  <img src="https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=3145" alt="Jira Software Logo" width="300"/>
 </p>
 
 <p align="center">
